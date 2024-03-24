@@ -1,2 +1,3 @@
 # site_para_foco
-Site para controlar seu tempo de foco e trabalho
+
+Meu primeiro site feito para manipular DOM no JavaScript com os cursos da Alura.
